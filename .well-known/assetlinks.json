@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kottov.pulse",
+      "sha256_cert_fingerprints": [
+        "71:3C:24:B8:D7:01:95:07:3D:53:EC:3F:EB:7D:DB:97:AC:E4:B2:A2:B4:FF:2A:89:66:0E:24:F9:4D:B6:F2:E8"
+      ]
+    }
+  }
+]

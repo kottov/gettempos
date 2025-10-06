@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "CRD2Y7P2QD.com.kottov.pulse",
+        "paths": [ "/account/*" ]
+      }
+    ]
+  }
+}
